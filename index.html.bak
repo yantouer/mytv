@@ -96,7 +96,7 @@
                     <li>
                         <a>
                             <i class="linecons-diamond"></i>
-                            <span class="title">宝哥项目</span>
+                            <span class="title">常用工具</span>
                         </a>
                         <ul>
                             <li>
@@ -106,7 +106,7 @@
                             </li>
                             <li>
                                 <a href="#手机应用" class="smooth">
-                                    <span class="title">自建项目</span>
+                                    <span class="title">手机应用</span>
                                 </a>
                             </li>
                             
